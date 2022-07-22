@@ -6,5 +6,5 @@
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlxfly&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=verdihatorou&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=verdihatorou&layout=compact&theme=nightowl)
