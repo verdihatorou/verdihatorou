@@ -1,10 +1,9 @@
 ### Hi there im verdihatoru👋
 
 🗿
-:page_with_curl: I'm currently learning:
+:page_with_curl: I'm newbie programing:
 - HTML
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=radical)
