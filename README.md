@@ -1,4 +1,4 @@
-### Hi there im verdihatoru👋
+
 ### Hi there 👋 My name verdi
 
 <p align="center">
