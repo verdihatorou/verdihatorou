@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verdihatorou" alt="verdihatorou" /></a> </p>
 
-- 🔭 I’m currently working on [CLOAB SCRIPT](github.com/BOTCAHX/RTXZY-MD)
+- 🔭 I’m currently working on [COLAB SCRIPT](https://github.com/BOTCAHX/RTXZY-MD)
 
-- 👯 I’m looking to collaborate on [SCRIPT BOT MULTIAUTH](github.com/BOTCAHX/RTXZY-MD)
+- 👯 I’m looking to collaborate on [SCRIPT BOT MULTIAUTH](https://github.com/BOTCAHX/RTXZY-MD)
 
 - 🤝 I’m looking for help with [github.com/eval-ceff](github.com/eval-ceff)
 
