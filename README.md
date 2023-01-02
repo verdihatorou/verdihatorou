@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+verdi+🗿🙏.;'suport+my+acount+github🗿." alt="verdibotz">
 </p>
-<img src="https://telegra.ph/file/1a3eac3701775793618b3.jpg" alt="verdikawaii" width="360" />
+<img src="https://telegra.ph/file/6984723cbc2ab2d15e51c.jpg" alt="verdikawaii" width="360" />
 
 </p>
 
