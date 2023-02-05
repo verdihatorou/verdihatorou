@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on [SCRIPT BOT MULTIAUTH](https://github.com/BOTCAHX/RTXZY-MD)
 
-- 🤝 I’m looking for help with [![evalceff](https://github.com/eval-ceff.png?size=100)](https://github.com/eval-ceff) </p>  `eval`  </p>
+- 🤝 I’m looking for help with [![tio xd](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX) </p>  `tio rimek`  </p>
 
 - 💬 Ask me about **🗿yang know know aja**
 
